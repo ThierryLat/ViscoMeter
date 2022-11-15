@@ -3,7 +3,7 @@ Software for controlling, acquiring and plotting data of a new portable viscomet
 # Installation
 This package needs Python 2 and additionals packages:
 * matplolib,pyserial,PyQt4,thermocouples_reference
-# Authors
+# Author
 * Thierry Latchimy (T.Latchimy@opgc.fr)
 * CNRS OPGC, Université Clermont Auvergne
 # License
