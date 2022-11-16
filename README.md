@@ -18,7 +18,7 @@ This package needs Python 2 and additional packages:
 * thermocouples_reference
 
 Copy the entire folder "software" on your disk file.  
-Use the shell script "start.h" in this folder to execute the main program "Visco5.py" 
+Use the shell script "start.h" in this folder to execute the main program "visco5.py" 
 
 # Help
 The folder "html" contains the documentation of the software that is created  by doxygen.  
