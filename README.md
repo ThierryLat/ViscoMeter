@@ -22,7 +22,8 @@ Use the shell script "start.h" in this folder to execute the main program "visco
 
 # Help
 The folder "html" contains the documentation of the software that is created  by doxygen.  
-You just need to copy the entire folder and open the index.html inside.
+You just need to copy the entire folder and open the index.html inside.  
+Or use this link : https://thierrylat.github.io/ViscoMetDoc/index.html
 # Author
 * Thierry Latchimy (T.Latchimy@opgc.fr)
 * CNRS OPGC, Université Clermont Auvergne
